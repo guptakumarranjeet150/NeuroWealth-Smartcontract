@@ -11,5 +11,4 @@ pr.md
 node_modules/
 .next/
 dist/
-.env
-.env.local
+config.bat
